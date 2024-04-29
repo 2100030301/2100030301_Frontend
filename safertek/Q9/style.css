@@ -1,0 +1,7 @@
+/* Your existing CSS styles */
+
+/* Highlight on hover */
+.highlight-on-hover {
+    cursor: pointer;
+    background-color: yellow;
+}
